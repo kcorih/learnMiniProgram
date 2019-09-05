@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text class="title">Hello World</text>
 <button>三生三世</button>
+<text>知识点1</text>
